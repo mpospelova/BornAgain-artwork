@@ -24,3 +24,6 @@ convert ../600x600_transp/Tetrahedron_transp.png -resize $size ff_Tetrahedron_$s
 convert ../600x600_transp/TruncatedCube_transp.png -resize $size ff_TruncatedCube_$size.png
 convert ../600x600_transp/TruncatedSphere_transp.png -resize $size ff_TruncatedSphere_$size.png
 convert ../600x600_transp/TruncatedSpheroid_transp.png -resize $size ff_TruncatedSpheroid_$size.png
+
+
+
